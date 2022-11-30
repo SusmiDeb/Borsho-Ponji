@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Borsho Punji</string>
+    <string name="SAT">শনি</string>
+    <string name="SUN">রবি</string>
+    <string name="MON">সোম</string>
+    <string name="TUE">মঙ্গল</string>
+    <string name="WED">বুধ</string>
+    <string name="THU">বৃহস্পতি</string>
+    <string name="FRI">শুক্র</string>
+</resources>
